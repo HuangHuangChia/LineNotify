@@ -1,0 +1,1 @@
+C:\Task\LineNotify\LineNotify_general.exe "0xQH1k7AuD1CERF9Hy12XNv8MnTOE8V6MwitbfdJHe9" "C:\Task\LineNotify\alert1.txt"
